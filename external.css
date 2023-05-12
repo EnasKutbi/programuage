@@ -1,0 +1,228 @@
+body{
+background-color:#11111;
+
+
+}
+
+.sidenav a {
+  padding: 50px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  /*color: #E7926C;*/
+  color:#7C7E7C;
+  display: block;
+  height: 50px;
+  width: 237px;
+  /*background-color:#8C3326;*/
+  background-color:#E0F1E6;
+}
+a:hover {
+  color: #79A6A3;
+    background-color:#FFFFFF;
+}
+.logo{
+    height: 120px;
+    width: 270px;
+	color:#E7926C;
+	font-size:25px;
+	
+	background-image: url(https://cdn130.picsart.com/330170738062211.png?to=crop&type=webp&r=-1x-1&q=95);
+	background-position: left top;
+	background-repeat:no-repeat;
+	 background-size: 65px;;
+}
+.llo{
+   color:#FAFFB0;
+  text-shadow: 1px 1px 2px gray, 0 0 25px green, 0 0 5px #6B9E68;
+  font-size:35px;
+}
+.h{
+  position: absolute;
+  left: 65px;
+  top: 55px;
+  font-family:Bell MT;
+  color:#FAFFB0;
+  /*color:#67C9B4;*/
+  
+  text-shadow: 1px 1px 2px gray, 0 0 25px green, 0 0 5px #6B9E68;
+  font-size:25px;
+}
+
+.center{
+	height: 900px;
+    width: 1000px;
+	position: absolute;
+    top:225px;
+	left:450px;
+	background-image: url(https://i.pinimg.com/564x/cd/68/ce/cd68ce6393406633b8152b2a1db47cae.jpg);
+	
+	background-repeat:no-repeat;
+}
+.left{
+	font-family:Courier New;
+	font-size:25px;
+	height: 900px;
+    width: 920px;
+	position: absolute;
+    top:80px;
+	left:420px;
+}
+.button{
+	background-color:#E0F1E6;
+	padding: 16px 32px;
+	font-size:25px;
+	cursor:pointer;
+}
+.more{
+    height: 600px;
+    width: 700px;
+	position: absolute;
+    top:800px;
+	left:0px;
+	background-image: url(https://media.istockphoto.com/vectors/web-developer-blue-rgb-color-icon-computer-software-development-pc-vector-id1251725147?k=20&m=1251725147&s=170667a&w=0&h=dP5REX1HGPDsX_YVsuvXubqJGhN-pg9_ooSkurdWPAA=);
+	background-size:500px;
+	background-repeat:no-repeat;
+}
+.parag{
+	font-family:Courier New;
+	font-size:30px;
+	height: 300px;
+    width: 550px;
+	position: absolute;
+    top:830px;
+	left:550px;
+	color:#7C7E7C;
+}
+.signC{
+	/*color:white;*/
+	color:#7C7E7C;
+  margin: auto;
+  width: 20%;
+  /*border: 6px solid #7C7E7C;*/
+  padding: 20px;
+ text-align:center;
+  position: absolute;
+  top:250px;
+	left:1050px;
+	font-size:25px;
+	/*background-color:#F2F5F2;*/
+	
+	
+	
+}
+.remember{
+	margin-bottom:15px"
+}
+
+.para{
+	font-family:Courier New;
+	font-size:35px;
+	height: 900px;
+    width: 920px;
+	position: absolute;
+    top:90px;
+	left:420px;
+	padding-bottom:20;
+	
+}
+.imgsign{
+	position:absolute;
+    top:250px;
+	left:300px;
+	
+	
+}
+.logC{
+	color:#7C7E7C;
+  margin: auto;
+  width: 20%;
+  padding: 20px;
+ text-align:center;
+  position: absolute;
+  top:250px;
+	left:400px;
+	font-size:25px;
+	
+}
+.account{
+	position:absolute;
+    top:30px;
+	right:50px;
+	font-size:25px;
+	color:#7C7E7C;
+	background-color:#E0F1E6;
+}
+.programingLang{
+   color:#3C5556;
+   font-size:20px;
+   position:absolute;
+   top:90px;
+   left:350px;
+
+}
+.hLang{
+   font-size:40px;
+   margin-bottom: 20px;
+
+}
+.java{
+  background-color:#E5DCD6;
+  padding:50px;
+
+}
+.c{
+   background-color:#EFE6DD;
+   padding:50px;
+
+}
+.courseEvaluation{
+   color:#073431;
+   position:absolute;
+   top:130px;
+   left:350px;
+}
+.courseF{
+   padding:20px;
+   height: 400px;
+   width: 520px;
+   position: absolute;
+   top: 20px;
+   left: 5px;
+}
+.courseH{
+   background-color:#E5DCD6;
+   padding:20px;
+   padding-left:80px;
+
+}
+.courseN{
+   padding:20px;
+   height: 400px;
+   width: 520px;
+   position: absolute;
+   top: 20px;
+   left: 550px;
+}
+.site{
+   padding:20px;
+   height: 400px;
+   width: 520px;
+   position: absolute;
+   top: 470px;
+   left: 5px;
+}
+.subm{
+   padding:20px;
+   height: 400px;
+   width: 520px;
+   position: absolute;
+   top: 830px;
+   left: 450px;
+}
+
+.head{
+   background-color:#C7D7CA;
+   color:#073431;
+   font-size:25px;
+
+}
